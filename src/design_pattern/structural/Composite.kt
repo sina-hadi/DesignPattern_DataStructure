@@ -31,8 +31,10 @@ class Memory : Equipment(280, "Memory")
 
 /**
  * Can catch price with getPrice()
- * for Equipment class
- * and composite class
+ * for Equipment class and composite class
  * that is a class can add equipment classes
  * and get add of all prices of them
+ * 
+ * Design pattern of recursive function
+ * action to all member of a tree by level
  */
