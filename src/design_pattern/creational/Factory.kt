@@ -86,4 +86,6 @@ enum class CatBreed {
  * That's what Factory Method is all about:
  * Get some value.
  * Return one of the objects that implement the common interface.
+ * Build with superclass and choose the object that you want
+ * through subclass
  */
